@@ -1,3 +1,17 @@
-[
-    
-]
+{
+      "address": "TUxUswta1imPKT3jxCRGkzmgrb2vJZfoz1",
+      "symbol": "TRP",
+      "name": "TRP",
+      "decimals": 6,
+      "logoURI": "https://trxplus.com/assets/img/client-3.jpg",
+      "homepage": "https://trxplus.com/",
+      "MarketCapLink": "",
+      "existingMarkets": [
+          {
+              "source": "SunSwap",
+              "pairs": [
+                  "TRP/TRX"
+              ]
+          }
+    ]
+}
